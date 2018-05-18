@@ -5,5 +5,5 @@ Used release lua 5.3.4
 * Modified luaconf.h for lua_getlocaledecpoint() at Line No. 673
 * Added a sample script foo.lua and embedded this in foo.c
 
-* For old compilers use following to get liblua.a (ignore warnings)
-make c89
+* For old compilers use "make c89" to get liblua.a (ignore warnings)
+
